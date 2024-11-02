@@ -1,5 +1,5 @@
 from pytest import fixture
-from day1 import day1
+from src.day1 import day1
 
 
 @fixture
